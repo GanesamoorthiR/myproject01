@@ -1,0 +1,2 @@
+A test branch is a temporary branch created to experiment with new features or changes without affecting the main codebase.
+It helps in safely testing and validating code before merging it into the main or develop branch.
